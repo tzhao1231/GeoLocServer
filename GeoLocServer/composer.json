@@ -1,0 +1,5 @@
+{
+    "require": {
+        "taniko/dijkstra": "^1.1"
+    }
+}
